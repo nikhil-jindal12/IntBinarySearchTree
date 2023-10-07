@@ -28,7 +28,7 @@ public class BinarySearchTree {
 
     /**
      * Returns the number of nodes in the BST
-     * @return
+     * @return the number of nodes in the BST
      */
     public int getNodeCount() {
         return this.nodeCount;
